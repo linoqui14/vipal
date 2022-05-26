@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852431885412",
+    "project_id": "vipal-8fae9",
+    "storage_bucket": "vipal-8fae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852431885412:android:7d74bce8d34933e56b7b71",
+        "android_client_info": {
+          "package_name": "com.vipal.vipal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852431885412-hpdab04ntjr04cpf79v3p0h0eiav5ckf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vipal.vipal",
+            "certificate_hash": "a5e38122c3eb62555ef11e3a40a6ad3fdead91f2"
+          }
+        },
+        {
+          "client_id": "852431885412-4oj5q2nullt4taqco7tao471ejinuhan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6uksSuCi5Lc6OJPkyKvYZThaUCndI-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852431885412-4oj5q2nullt4taqco7tao471ejinuhan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
